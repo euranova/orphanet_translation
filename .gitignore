@@ -1,0 +1,13 @@
+*.pyc
+*.egg-info/
+.cache
+.eggs
+.idea/
+.DS_Store
+__pycache__
+/docs/_*
+/dist
+.mypy_cache/
+.ropeproject/
+build/
+.vscode

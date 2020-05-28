@@ -1,0 +1,5 @@
+numpy
+pandas
+textdistance
+tqdm
+-e git://github.com/euranova/wikidata_property_extraction.git#egg=wikidata_property_extraction
